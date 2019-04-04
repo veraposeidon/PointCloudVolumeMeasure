@@ -1,3 +1,5 @@
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 # PointCloudVolumeMeasure
 
 代码实现了Kinect V2 + PCL 实现简单地方体目标的体积测量，后续方案优化和界面优化将迁移至实习SVN库中。
