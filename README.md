@@ -6,9 +6,9 @@
 
 ## 驱动及PCL库安装
 
-[Windows10下配置KinectV2以支持OpenNI2和PCL](https://shenxiaohai.me/2018/04/23/Win10-Kinect/) 
+[Windows10下配置KinectV2以支持OpenNI2和PCL](https://shenxiaohai.me/2018/04/24/Win10-Kinect/) 
 
-[Ubuntu16.04下编译libfreenect2和PCL以支持KinectV2点云处理](https://shenxiaohai.me/2018/04/25/Ubuntu-freenect2-PCL/)
+[Ubuntu16.04下编译libfreenect2和PCL以支持KinectV2点云处理](https://shenxiaohai.me/2018/04/26/Ubuntu-freenect2-PCL/)
 
 ## 流程
 
