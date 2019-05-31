@@ -2,7 +2,7 @@
 
 # PointCloudVolumeMeasure
 
-代码实现了Kinect V2 + PCL 实现简单地方体目标的体积测量，后续方案优化和界面优化将迁移至实习SVN库中。
+代码实现了Kinect V2 + PCL 实现简单地方体目标的体积测量。
 
 ## 驱动及PCL库安装
 
